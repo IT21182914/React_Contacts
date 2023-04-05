@@ -1,5 +1,5 @@
 # React_Contacts
-Simpole Contact App Using React js
+Simple Contact App Using React js
 
 
 
